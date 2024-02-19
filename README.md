@@ -12,7 +12,9 @@
 
 ## Languages and Tools:
 - Javascript
+- Typescript
 - React
+- Next.js
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonetimi&show_icons=true)

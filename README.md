@@ -20,6 +20,9 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonetimi&show_icons=true)
 
 ## Recent Projects
+- [Blog App](https://github.com/simonetimi/blog-app)
+- [Message Board](https://github.com/simonetimi/message-board)
+- [Memory Game](https://github.com/simonetimi/memory-game)
 - [Weather App](https://github.com/simonetimi/weather-app)
 - [Todo List App](https://github.com/simonetimi/todo-list-app)
 

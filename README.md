@@ -4,8 +4,7 @@
 - 🌱 I’m a web developer, in the constant process of learning new stuff
 - 🎓 I'm a speech-language pathologist & behavior analyst
 - 💻 I'm passionate about tech (duh!), linguistics and neuroscience
-- 🤝 I’m looking to collaborate on interesting open source projects
-- 🥅 2024 Goals: Build a play-by-chat RPG game platform, build and deploy a token economy app for speech clients
+- 🔎 I’m always looking to collaborate on interesting open source projects
 
 ## Connect with Me
 - [Email](mailto:simonetimi.dev@gmail.com)
@@ -30,4 +29,4 @@
 
 <br>
 
-> Feel free to reach out if you have any questions or opportunities!
+> Feel free to reach out!

@@ -13,7 +13,7 @@
 - [Email](mailto:simonetimi.dev@gmail.com)
 
 ## Stack
-[![Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,postgres,mongodb,python,java,angular,mysql&perline=5)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,tailwind,postgres,mongodb,python,java,spring,mysql&perline=5)](https://skillicons.dev)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonetimi&layout=donut)&nbsp; &nbsp; &nbsp; &nbsp;

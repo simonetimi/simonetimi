@@ -1,10 +1,13 @@
 # Hello there, I'm Simone! 👋
 
 ## About Me
-- 🌱 I’m a web developer, in the constant process of learning new stuff
-- 🎓 I'm a speech-language pathologist & behavior analyst
-- 💻 I'm passionate about tech (duh!), linguistics and neuroscience
-- 🔎 I’m always looking to collaborate on interesting open source projects
+- 🌱 Full stack developer, in the constant process of learning new stuff
+- 🎓 Previously speech-language pathologist & behavior analyst
+- 💻 Passionate about tech (duh!), linguistics and neuroscience
+- 🔎 Always looking to collaborate on interesting open source projects
+  
+- 💼 Employed by Lascaux
+- 🖥️ I'm actively working on [Next-GdR](https://github.com/simonetimi/next-gdr), a platform for text-based RPG games, in my free time
 
 ## Connect with Me
 - [Email](mailto:simonetimi.dev@gmail.com)
